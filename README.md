@@ -76,6 +76,6 @@ As a Mi A1 user, I was stuck with Stock Oreo 8.0.0 without Oreo custom ROMs when
 * @topjohnwu for Magisk
 
 ## ⭐ Links
-* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/PIX3LIFY.svg)](https://github.com/Magisk-Modules-Repo/PIX3LIFY/blob/master/LICENSE)
+* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/Pix3lify.svg)](https://github.com/Magisk-Modules-Repo/Pix3lify/blob/master/LICENSE)
 * [![PIX3LIFY XDA Portal feature](https://img.shields.io/badge/XDA-Portal-orange.svg)](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
-* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/PIX3LIFY/)
+* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/Pix3lify)
